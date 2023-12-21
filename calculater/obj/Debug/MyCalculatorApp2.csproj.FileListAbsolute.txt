@@ -1,0 +1,7 @@
+C:\Users\qznur\source\repos\calculater\calculater\bin\Debug\calculater.exe.config
+C:\Users\qznur\source\repos\calculater\calculater\bin\Debug\calculater.exe
+C:\Users\qznur\source\repos\calculater\calculater\bin\Debug\calculater.pdb
+C:\Users\qznur\source\repos\calculater\calculater\obj\Debug\MyCalculatorApp2.csproj.AssemblyReference.cache
+C:\Users\qznur\source\repos\calculater\calculater\obj\Debug\MyCalculatorApp2.csproj.CoreCompileInputs.cache
+C:\Users\qznur\source\repos\calculater\calculater\obj\Debug\calculater.exe
+C:\Users\qznur\source\repos\calculater\calculater\obj\Debug\calculater.pdb

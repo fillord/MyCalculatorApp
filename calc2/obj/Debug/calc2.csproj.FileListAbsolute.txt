@@ -1,0 +1,7 @@
+C:\Users\qznur\source\repos\calculater\calc2\bin\Debug\calc2.exe.config
+C:\Users\qznur\source\repos\calculater\calc2\bin\Debug\calc2.exe
+C:\Users\qznur\source\repos\calculater\calc2\bin\Debug\calc2.pdb
+C:\Users\qznur\source\repos\calculater\calc2\obj\Debug\calc2.csproj.AssemblyReference.cache
+C:\Users\qznur\source\repos\calculater\calc2\obj\Debug\calc2.csproj.CoreCompileInputs.cache
+C:\Users\qznur\source\repos\calculater\calc2\obj\Debug\calc2.exe
+C:\Users\qznur\source\repos\calculater\calc2\obj\Debug\calc2.pdb
